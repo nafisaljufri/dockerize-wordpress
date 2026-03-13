@@ -63,7 +63,7 @@ Gunakan perintah berikut untuk memastikan container berjalan:
 docker ps
 ```
 
-![Docker Containers Running](images/docker-ps.png)
+![Docker Containers Running](images/Docker-ps.png)
 
 ---
 
@@ -89,7 +89,7 @@ Isi informasi berikut pada halaman instalasi:
 * Password
 * Email
 
-![WordPress Installation](images/wp-install.png)
+![WordPress Installation](images/WP-Install.png)
 Kemudian klik **Install WordPress**.
 
 ---
@@ -106,7 +106,7 @@ Masukkan username dan password yang telah dibuat.
 
 ### Screenshot WordPress Dashboard
 
-![WordPress Dashboard](images/wp-dashboard.png)
+![WordPress Dashboard](images/WP-Dashboard.png)
 
 ---
 
@@ -130,8 +130,8 @@ Jika Redis berjalan dengan baik maka akan muncul output:
 PONG
 ```
 
-![Redis Ping Test](images/redis-ping.png)
-![Redis Ping Test](images/redis-cli.png)
+![Redis Ping Test](images/Redis-ping.png)
+![Redis Ping Test](images/Redis-cli.png)
 
 ---
 
