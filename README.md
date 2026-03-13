@@ -104,13 +104,29 @@ http://localhost:8000/wp-admin
 
 Masukkan username dan password yang telah dibuat.
 
-### Screenshot WordPress Dashboard
-
 ![WordPress Dashboard](images/WP-Dashboard.png)
 
 ---
 
-## 7. Testing Redis Cache
+## 7. Redis Object Cache Setup
+
+Masuk ke plugin wordpress
+
+Lalu install Redis Object Cache
+
+Kemudian jika selesai menginstall, maka lakukan activated.
+
+Maka statusnya akan:
+
+```
+Connected
+```
+
+![Redis Wordpress](images/Redis-oc.png)
+
+---
+
+## 8. Testing Redis Cache
 
 Masuk ke Redis CLI dengan perintah berikut:
 
@@ -139,7 +155,7 @@ PONG
 
 Berikut hasil pengujian stack:
 
-![Redis Ping Test](images/wp-post.png)
+![Testing](images/wp-post.png)
 
 | Komponen         | Status    |
 | ---------------- | --------- |
